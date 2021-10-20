@@ -8,7 +8,7 @@
 - 🐱‍💻 Ranked under the Top 10K Ethical Hackers of all-time [BugCrowd][BugCrowd]
 - 🖥 I’m currently learning competitive programming ❤
 - 🌏 I’m an active CTF player on [TryHackMe][TryHackMe]
-- ⚡ Working on deeloping my own 8-bit computer using micro electronics
+- ⚡ Working on developing my own 8-bit computer using micro electronics
 - 🥅 Goals: GSoC, OSCP, CEH, and Open Source Contributions 
 
 
