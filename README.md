@@ -14,30 +14,35 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cyberkartik.me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][website]
-[<img align="left" alt="cyberkartik | BugCrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][BugCrowd]
+[<img align="left" alt="cyberkartik.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][website]
+[<img align="left" alt="cyberkartik | BugCrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][youtube]
 [<img align="left" alt="cyberkartik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cyberkartik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cyberkartik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Python" width="26px" src="https://github.com/jmnote/z-icons/blob/master/svg/python.svg" />]
-[<img align="left" alt="C++" width="26px" src="https://github.com/jmnote/z-icons/blob/master/svg/cpp.svg" />]
-[<img align="left" alt="BASH" width="26px" src="https://github.com/jmnote/z-icons/blob/master/svg/bash.svg" />]
-[<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Putty" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Python" width="26px" src="https://github.com/jmnote/z-icons/blob/master/svg/python.svg" />][cssplaylist]
+[<img align="left" alt="C++" width="26px" src="https://github.com/jmnote/z-icons/blob/master/svg/cpp.svg" />][reactplaylist]
+[<img align="left" alt="BASH" width="26px" src="https://github.com/jmnote/z-icons/blob/master/svg/bash.svg" />][webdevplaylist]
+[<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Putty" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 
 
-[website]: https://cyberkartik.me
-[twitter]: https://twitter.com/cyberkartik
-[BugCrowd]: https://bugcrowd.com/cyberkartik
-[instagram]: https://instagram.com/kartikguptaa__
-[linkedin]: https://linkedin.com/in/cyberkartik
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
