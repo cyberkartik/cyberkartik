@@ -17,8 +17,8 @@
 [<img align="left" alt="cyberkartik.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][website]
 [<img align="left" alt="cyberkartik | BugCrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][youtube]
 [<img align="left" alt="cyberkartik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="cyberkartik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="cyberkartik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -35,12 +35,9 @@
 [<img align="left" alt="Putty" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" />][call]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][call]
 
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://cyberkartik.me
+[TryHackMe]: https://tryhackme.com/p/cyberkartik
+[twitter]: https://twitter.com/cyberkartik
+[instagram]: https://instagram.com/kartikguptaa__
+[linkedin]: https://linkedin.com/in/cyberkartik
 [call]: https://github.com/cyberkartik
-
