@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img align="left" alt="cyberkartik.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][website]
-[<img align="left" alt="cyberkartik | BugCrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][youtube]
+[<img align="left" alt="cyberkartik | BugCrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][BugCrowd]
 [<img align="left" alt="cyberkartik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cyberkartik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cyberkartik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -40,4 +40,5 @@
 [twitter]: https://twitter.com/cyberkartik
 [instagram]: https://instagram.com/kartikguptaa__
 [linkedin]: https://linkedin.com/in/cyberkartik
+[BugCrowd]: https://bugcrowd.com/cyberkartik
 [call]: https://github.com/cyberkartik
