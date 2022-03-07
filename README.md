@@ -42,17 +42,3 @@
 [linkedin]: https://linkedin.com/in/kartikg196
 [BugCrowd]: https://bugcrowd.com/cyberkartik
 [call]: https://github.com/cyberkartik
-
-
-
-
-
-<br/>
-<img src="https://gpvc.arturio.dev/cyberkartik" />
-
-<h3> Connect with me on</h3>
-<a href="https://github.com/cyberkartik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/cyberkartik" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/kartikg196" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://cyberkartik.me" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-685EA9?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://bugcrowd.com/cyberkartik" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Bugcrowd-FF4500?style=for-the-badge&logo=me&logoColor=white" /></a>
