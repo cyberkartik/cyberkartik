@@ -48,7 +48,7 @@
 
 
 <br/>
-<img src="https://gpvc.arturio.dev/cyberkartik" align="center" />
+<img src="https://gpvc.arturio.dev/cyberkartik" />
 
 <h3> Connect with me on</h3>
 <a href="https://github.com/cyberkartik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
