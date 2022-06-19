@@ -1,7 +1,7 @@
 ### Hello World, I'm Kartik - aka [cyberkartik][website] 👋
 
 [![Website](https://img.shields.io/website?label=cyberkartik.me&style=for-the-badge&url=https%3A%2F%2Fcyberkartik.me)](https://cyberkartik.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cyberkartik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcyberkartik&screen_name=cyberkartik)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kartik_twt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcyberkartik&screen_name=kartik_twt)
 
 ## I'm a CyberSec. Professional, Bug Hunter, and a Programmer!!
 
