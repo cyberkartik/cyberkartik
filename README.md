@@ -37,7 +37,7 @@
 
 [website]: https://cyberkartik.me
 [TryHackMe]: https://tryhackme.com/p/cyberkartik
-[twitter]: https://twitter.com/cyberkartik
+[twitter]: https://twitter.com/kartik_twt
 [instagram]: https://instagram.com/kartikguptaa__
 [linkedin]: https://linkedin.com/in/kartikg196
 [BugCrowd]: https://bugcrowd.com/cyberkartik
